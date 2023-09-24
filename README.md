@@ -3,11 +3,11 @@ Machine Learning-Based Pricing prediction and generation of project quotes
 
 #Dataset Information
 
-#Libraries
--pandas
--matplotlib 
--seaborn 
--numpy
--scikit-learn 
+# Libraries
+- pandas
+- matplotlib 
+- seaborn 
+- numpy
+- scikit-learn 
 
-#Algorithms
+# Algorithms
