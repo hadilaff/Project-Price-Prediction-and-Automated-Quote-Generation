@@ -1,7 +1,7 @@
 # Project-Price-Prediction-and-Automated-Quote-Generation
 Machine Learning-Based Pricing prediction and generation of project quotes
 
-#Dataset Information
+Creating a quote is typically a time-consuming and laborious process. However, automated generation of a quote is the solution to expedite this process.
 
 # Libraries
 - pandas
@@ -11,3 +11,8 @@ Machine Learning-Based Pricing prediction and generation of project quotes
 - scikit-learn 
 
 # Algorithms
+- LinearRegression
+- DecisionTreeRegressor
+- KNeighborsRegressor
+- AdaBoostRegressor
+- RandomForestRegressor
