@@ -16,3 +16,7 @@ Creating a quote is typically a time-consuming and laborious process. However, a
 - KNeighborsRegressor
 - AdaBoostRegressor
 - RandomForestRegressor
+
+
+Mean Squared Error: 0.002359209469990957
+R-Squared Score: 0.9999999999968977
